@@ -1,2 +1,5 @@
 # Warrior-JS-Solutions
-My Solutions to an exciting game of programming and Artificial Intelligence
+
+WarriorJS (by olistic) is a CLI game where the player needs to write an Artificial Intelligence using JavaScript in order to climb a tower full of challenges, each level is harder than the previous one.
+
+These my solutions and you can check the game in https://warriorjs.com/
